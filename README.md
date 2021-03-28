@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dana
+- 👀 I’m interested in making Android app and making market market content in UE4(mainly Blueprints)
+- 📫 Feel free to join my Discord channel https://discord.com/invite/fdtwV6HJMq
